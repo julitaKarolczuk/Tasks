@@ -16,7 +16,7 @@ const myFunction = (a, b) => {
 
 // funkcje anonimowe - nie maja własnej nazwy np. ... .addEventListener('click', function() {...})
 
-// Objects 
+// Obiekty
 
 const person = {
   first: 'Julita',
