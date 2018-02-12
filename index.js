@@ -1,6 +1,6 @@
 // Functions - zestaw instrukcji wykonujacych dane zadanie okreslone w ciele funkcji
 // deklaracja
-function test /*nazwa poprzez ktora odwołujemy sie fkcji*/ (a, b) /*parametry*/ {
+function test /*nazwa poprzez ktora odwołujemy sie funkcji*/ (a, b) /*parametry*/ {
   return a + b // cialo funkcji
 }
 test(1, 2); // wywołanie
